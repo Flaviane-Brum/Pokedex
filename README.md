@@ -1,10 +1,7 @@
-<br>
 <div align="center">
 
-<img src="./src/assets/pokedex.png" alt="autor" width="400"  >
-</div>
-<br>
-<br>
+<img src="./src/assets/pokedex.png" alt="Logo" width="400"  >
+
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#preview">Preview</a> •
@@ -13,7 +10,7 @@
  <a href="#instalacao">Instalação</a> • 
  
 </p>
-
+</div>
 <h3 id="objetivo">:dart:  Objetivo</h3>
 <hr />
 <p align="center">🚀 Projeto desenvolvido para fins de estudo da biblioteca React JS com o consumo de uma 
