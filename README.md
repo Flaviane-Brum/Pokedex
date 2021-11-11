@@ -1,6 +1,8 @@
-<h1 align="center">
 <br>
-<img src="./src//assets/author.png" alt="autor" width="400" >
+<div align="center">
+
+<img src="./src/assets/pokedex.png" alt="autor" width="400"  >
+</div>
 <br>
 <br>
 <p align="center">
@@ -26,7 +28,7 @@
   <img src="./gifs/mobilePoke.gif"  />
 </div>
 <p>Você pode conferir o resultado final em: 
-<a href="https://pokedexflavi.netlify.app/" target="_blank"> Pokedex
+<a href="https://pokedexflavi.netlify.app/" > Pokedex
 </a>
 <h3 id="funcionalidades">✅ Funcionalidades</h3>
 <hr />
