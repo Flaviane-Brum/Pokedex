@@ -26,7 +26,7 @@
   <img src="./gifs/mobilePoke.gif"  />
 </div>
 <p>Você pode conferir o resultado final em: 
-<a href="https://pokedexflavi.netlify.app/"> pokedexflavi
+<a href="https://pokedexflavi.netlify.app/" target="_blank"> Pokedex
 </a>
 <h3 id="funcionalidades">✅ Funcionalidades</h3>
 <hr />
