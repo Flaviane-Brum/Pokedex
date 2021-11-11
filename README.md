@@ -25,7 +25,9 @@
   <h3 align="left" >:iphone: Mobile</h3>
   <img src="./gifs/mobilePoke.gif"  />
 </div>
-<p>Você pode conferir o resultado final em: <a href="https://pokedexflavi.netlify.app/"></a></p>
+<p>Você pode conferir o resultado final em: 
+<a href="https://pokedexflavi.netlify.app/"> pokedexflavi
+</a>
 <h3 id="funcionalidades">✅ Funcionalidades</h3>
 <hr />
 
