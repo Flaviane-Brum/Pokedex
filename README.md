@@ -25,7 +25,7 @@
   <h3 align="left" >:iphone: Mobile</h3>
   <img src="./gifs/mobilePoke.gif"  />
 </div>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b57094a6-9af9-45ca-93de-2845ce601a1f/deploy-status)](https://app.netlify.com/sites/pokedexflavi/deploys)
+<p>Você pode conferir o resultado final em: <a href="https://pokedexflavi.netlify.app/"></a></p>
 <h3 id="funcionalidades">✅ Funcionalidades</h3>
 <hr />
 
@@ -60,7 +60,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ```bash
 #### Clone este repositório
 
-`$ git clone <>`
+`$ git clone <https://github.com/Flaviane-Brum/Pokedex.git>`
 
 #### Acesse a pasta do projeto no terminal/cmd
 
